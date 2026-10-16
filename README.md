@@ -6,6 +6,8 @@ The dataset contains historical transaction records, and the goal is to build mo
 
 ## Dataset
 The dataset used is **BankSim1** (`bs140513_032310.csv`), which contains simulated bank transactions.
+[BankSim1 Dataset on Kaggle](https://www.kaggle.com/datasets/ealaxi/banksim1)
+
 
 ### Features
 | Column | Description |
